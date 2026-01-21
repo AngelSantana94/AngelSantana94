@@ -41,7 +41,8 @@ Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas 
 
 ### Backend / Lógica
 ![NodeJS](https://img.shields.io/badge/Node.js-Básico-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ---
 
