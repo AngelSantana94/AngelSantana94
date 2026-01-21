@@ -1,79 +1,67 @@
 ## Hola, mi nombre es Angel 👋
 
-# 💫 About Me:
-Soy un desarrollador enfocado en construir aplicaciones web robustas y escalables. Me encanta desmenuzar problemas complejos hasta encontrar soluciones sencillas y elegantes. Actualmente perfeccionando mis habilidades en el ecosistema JavaScript/TypeScript.
+Soy **Junior Full Stack Developer** enfocado en construir aplicaciones web claras, mantenibles y orientadas a usuario.  
+Me gusta descomponer problemas complejos en soluciones simples y bien estructuradas.  
+Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas prácticas de arquitectura frontend.
 
+---
+
+### 💼 Sobre mí
 - 🔭 Actualmente trabajando en: **Sistema de Gestión de Reservas**
-- 🌱 Aprendiendo: **Arquitecturas avanzadas y despliegue en la nube**
-- 💬 Pregúntame sobre: **JavaScript, React, y cómo arreglar un fetch que no quiere funcionar**
-- ⚡ Dato curioso: **Si el código no compila a la primera, el café lo soluciona.**
+- 🌱 Aprendiendo: **Arquitecturas frontend, patrones y despliegue**
+- 💬 Pregúntame sobre: **JavaScript, React, SASS y debugging**
+- ⚡ Dato curioso: Si el código no funciona, probablemente falte café ☕
 
 ---
-## 🚀 Proyectos en Producción
+
+## 🚀 Proyecto en Producción
+
 ### 🗺️ [Tu Guía en Brujas](https://tuguiaenbrujas.com)
-**Plataforma de turismo y gestión de tours.**
-- **Tech Stack:** React, SASS (Responsive Design), Integración de APIs.
-- **Logro:** Optimización de la experiencia de usuario para dispositivos móviles y sistema de reservas dinámico.
+**Plataforma de turismo y gestión de tours en producción real.**
 
-## 🛠 Mi Caja de Herramientas
+**Responsabilidades y logros:**
+- Desarrollo frontend con enfoque **responsive (mobile-first)**
+- Arquitectura de estilos con **SASS**
+- Integración de lógica dinámica para reservas
+- Optimización básica de **SEO y performance**
+- Gestión de despliegue y mantenimiento del proyecto
 
-### **Frontend & Estilos**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/Responsive_Design-blue?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Scripting**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Tech stack:**  
+`JavaScript` · `SASS / CSS3` · `HTML5`
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🛠 Tecnologías
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Básico-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/SASS-SCSS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/Responsive_Design-Mobile--First-blue?style=for-the-badge)
+
+### Backend / Lógica
+![NodeJS](https://img.shields.io/badge/Node.js-Básico-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Scripting-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Angel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelSantana94&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSantana94&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
-## 🧠 Filosofía de Trabajo
-- **Responsive por defecto:** Si no funciona en un móvil, no está terminado.
-- **SASS para escalar:** Estilos modulares, variables y mixins para que el CSS no sea un caos.
-- **React Components:** Arquitectura basada en componentes reutilizables y limpios.
+## 🧠 Forma de trabajar
+- **Responsive primero:** si no funciona en móvil, no está terminado
+- **Código claro:** prefiero legibilidad antes que sobreingeniería
+- **Componentes reutilizables:** estructura limpia y mantenible
+- **Aprendizaje constante:** mejorar con feedback y práctica real
 
 ---
 
-## 📫 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](## 🛠 Mi Caja de Herramientas
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Santana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-santana-0311761a2/)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciosantana373@gmail.com)
 
-### **Frontend & Estilos**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/Responsive_Design-blue?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Scripting**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Angel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
-
-## 🧠 Filosofía de Trabajo
-- **Responsive por defecto:** Si no funciona en un móvil, no está terminado.
-- **SASS para escalar:** Estilos modulares, variables y mixins para que el CSS no sea un caos.
-- **React Components:** Arquitectura basada en componentes reutilizables y limpios.
-
----
-
-## 📫 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/angel-santana-0311761a2/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ignaciosantana373@gmail.com))
