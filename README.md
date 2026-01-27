@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Angel 👋
 
-Soy **Junior Full Stack Developer** enfocado en construir aplicaciones web claras, mantenibles y orientadas a usuario.  
+Soy **Full Stack Developer** enfocado en construir aplicaciones web claras, mantenibles y orientadas a usuario.  
 Me gusta descomponer problemas complejos en soluciones simples y bien estructuradas.  
 Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas prácticas de arquitectura frontend.
 
