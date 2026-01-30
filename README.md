@@ -34,14 +34,20 @@ Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas 
 ## 🛠 Tecnologías
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Básico-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-Basics-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Basic-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/SASS-SCSS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/Responsive_Design-Mobile--First-blue?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive-Mobile--First-0A66C2?style=for-the-badge)
 
-### Backend / Lógica
-![NodeJS](https://img.shields.io/badge/Node.js-Básico-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Backend / Logic
+![Node.js](https://img.shields.io/badge/Node.js-Basic-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Async/Await-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-Basic-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
 ---
