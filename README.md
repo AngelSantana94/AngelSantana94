@@ -1,4 +1,4 @@
-## Hola, mi nombre es Angel 👋
+## Hi, I'm Angel 👋
 
 Soy **Full Stack Developer** enfocado en construir aplicaciones web claras, mantenibles y orientadas a usuario.  
 Me gusta descomponer problemas complejos en soluciones simples y bien estructuradas.  
@@ -6,25 +6,25 @@ Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas 
 
 ---
 
-### 💼 Sobre mí
-- 🔭 Actualmente trabajando en: **Sistema de Gestión de Reservas**
-- 🌱 Aprendiendo: **Arquitecturas frontend, patrones y despliegue**
-- 💬 Pregúntame sobre: **JavaScript, React, SASS y debugging**
-- ⚡ Dato curioso: Si el código no funciona, probablemente falte café ☕
+### 💼 About me
+- 🔭 Currently working on: **Tour & Booking Management System**
+- 🌱 Learning: **Frontend architecture, patterns and deployment**
+- 💬 Ask me about: **JavaScript, React, SASS and debugging**
+- ⚡ Fun fact: If the code doesn’t work, it probably needs more coffee ☕
 
 ---
 
-## 🚀 Proyecto en Producción
+## 🚀 Production Project
 
 ### 🗺️ [Tu Guía en Brujas](https://tuguiaenbrujas.com)
-**Plataforma de turismo y gestión de tours en producción real.**
+**Tourism platform and tour management system in real production use.**
 
-**Responsabilidades y logros:**
-- Desarrollo frontend con enfoque **responsive (mobile-first)**
-- Arquitectura de estilos con **SASS**
-- Integración de lógica dinámica para reservas
-- Optimización básica de **SEO y performance**
-- Gestión de despliegue y mantenimiento del proyecto
+**Responsibilities & achievements:**
+- Frontend development with a **mobile-first / responsive** approach
+- Style architecture using **SASS (SCSS)**
+- Dynamic logic integration for tour booking flows
+- Basic **SEO and performance optimization**
+- Deployment, maintenance and iterative improvementso
 
 **Tech stack:**  
 `JavaScript` · `SASS / CSS3` · `HTML5`
@@ -54,11 +54,11 @@ Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas 
 
 ---
 
-## 🧠 Forma de trabajar
-- **Responsive primero:** si no funciona en móvil, no está terminado
-- **Código claro:** prefiero legibilidad antes que sobreingeniería
-- **Componentes reutilizables:** estructura limpia y mantenible
-- **Aprendizaje constante:** mejorar con feedback y práctica real
+## 🧠 How I work
+- **Mobile-first mindset:** if it doesn’t work on mobile, it’s not finished
+- **Readable code:** clarity over over-engineering
+- **Reusable components:** clean and maintainable structure
+- **Continuous learning:** improve through feedback and real projects
 
 ---
 
