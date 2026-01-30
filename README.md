@@ -54,7 +54,8 @@ Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelSantana94&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AngelSantana94&show_icons=true&theme=radical
+" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSantana94&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
