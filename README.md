@@ -1,8 +1,8 @@
 ## Hi, I'm Angel 👋
 
-Soy **Full Stack Developer** enfocado en construir aplicaciones web claras, mantenibles y orientadas a usuario.  
-Me gusta descomponer problemas complejos en soluciones simples y bien estructuradas.  
-Actualmente profundizando en el ecosistema **JavaScript / TypeScript** y buenas prácticas de arquitectura frontend.
+I am a **Full Stack Developer** focused on building clear, maintainable, user-oriented web applications.
+I enjoy breaking down complex problems into simple, well-structured solutions.
+Currently deepening my expertise in the **JavaScript / TypeScript** ecosystem and frontend architecture best practices.
 
 ---
 
